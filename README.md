@@ -125,7 +125,3 @@ This helps visualize how historical emissions drive future predictions.
 - Add *uncertainty quantification* to predictions.
 
 ---
-
-## 📜 Citation & Acknowledgements
-
-*Citation:*
